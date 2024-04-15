@@ -1,0 +1,46 @@
+{
+    "Bankrekening": [
+        {
+            "from/to": "Kjell",
+            "amount": 1000000
+        },
+        {
+            "from/to": "Callum",
+            "amount": 100
+        },
+        {
+            "from/to": "Damian",
+            "amount": -100
+        },
+        {
+            "from/to": "Jay",
+            "amount": -20
+        },
+        {
+            "from/to": "Roy",
+            "amount": -10
+        },
+        {
+            "from/to": "Henk",
+            "amount": -50
+        },
+        {
+            "from/to": "Mark",
+            "amount": -30
+        },
+        {
+            "from/to": "Rik",
+            "amount": 100000
+        }
+    ],
+    "ZZP-Rekening": [
+        {
+            "from/to": "Space x",
+            "amount": 10000
+        },
+        {
+            "from/to": "Steam",
+            "amount": -500
+        }
+    ]
+}
